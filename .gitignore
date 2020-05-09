@@ -1,0 +1,9 @@
+
+*.db
+*.log
+*.tlog
+*.pdb
+*.obj
+*.idb
+graph/.vs/graph/v16/.suo
+*.ipch
