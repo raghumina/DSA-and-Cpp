@@ -8,3 +8,10 @@
 graph/.vs/graph/v16/.suo
 *.ipch
 c.cpp
+DsaBasic2/.vs/DsaBasic2/v16/.suo
+*.opendb
+*.exe
+*.ilk
+*.user
+*.vcxproj
+*.filters
